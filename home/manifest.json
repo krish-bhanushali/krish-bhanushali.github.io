@@ -1,5 +1,4 @@
-{
-    "name": "demoapp",
+{   "name": "demoapp",
     "short_name": "demoapp",
     "start_url": ".",
     "display": "ui",
