@@ -26887,7 +26887,7 @@ if(s.$2(a,l)>0){C.b.m(k.b,b,l)
 b=q}}C.b.m(k.b,b,a)}}
 F.uJ.prototype={
 P:function(a,b){var s=null,r=X.Xf(s,C.lv)
-return new S.ny(new M.ox(T.SS(L.a3c("Test App 123",s),s,s),C.v_,s),"Flutter Demo",r,s)}}
+return new S.ny(new M.ox(T.SS(L.a3c("New Test App bro",s),s,s),C.v_,s),"Flutter Demo",r,s)}}
 X.cw.prototype={
 i:function(a){return this.b}}
 X.bS.prototype={
